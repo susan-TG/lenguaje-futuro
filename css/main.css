@@ -1,0 +1,48 @@
+/*
+	Inserta tu CSS aqui
+*/
+
+header {
+	background: url(../img/grupal.jpg);
+	background-size: cover;
+	height: 600px;
+	background-repeat: no-repeat;	
+}
+.mini img{
+	width: 100%;
+	margin-top: 30px;
+}
+
+.logo img{
+	width: 500px;
+	text-align: center;
+	margin-left: 40;
+	margin-top: 80px;
+}
+a {
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	margin-left: 18px;
+	margin-bottom: 8px;
+	font-family: Arial;
+}
+.caja {
+	background-color: orange;
+	margin-top: 50px;
+	width: 80px;
+	height: 30px;
+}
+li{
+	display: inline;
+	font-size: 10px;
+	margin-left: 0;
+ }
+ul {
+	margin-top: 50px;
+	margin-left: 40px;
+}
+section a {
+	font-size: 12px;
+	margin-left: 0;
+}
