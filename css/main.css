@@ -5,7 +5,7 @@
 header {
 	background: url(../img/grupal.jpg);
 	background-size: cover;
-	height: 600px;
+	height: 800px;
 	background-repeat: no-repeat;	
 }
 .mini img{
@@ -16,7 +16,7 @@ header {
 .logo img{
 	width: 500px;
 	text-align: center;
-	margin-left: 40;
+	margin-left:0 ;
 	margin-top: 80px;
 }
 a {
@@ -30,16 +30,17 @@ a {
 .caja {
 	background-color: orange;
 	margin-top: 50px;
-	width: 80px;
+	width: 90px;
 	height: 30px;
+	padding: 10px 30px 30px 0;
 }
 li{
 	display: inline;
-	font-size: 10px;
+	font-size: 13px;
 	margin-left: 0;
  }
 ul {
-	margin-top: 50px;
+	margin-top: 60px;
 	margin-left: 40px;
 }
 section a {
